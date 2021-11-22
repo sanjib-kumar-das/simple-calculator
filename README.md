@@ -1,3 +1,3 @@
 # simple-calculator
 
-Diployment Link ===> [Netflix Clone](https://calculator-by-sanjib.netlify.app/)
+Diployment Link ===> [Calculator](https://calculator-by-sanjib.netlify.app/)
